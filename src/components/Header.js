@@ -22,7 +22,7 @@ const Header = () => {
             <ul className="navbar-nav">
 
               <li className="nav-item">
-                <a className="nav-link active" href="/topstories">
+                <a className="nav-link" href="/topstories">
                   Top Stories
                 </a>
               </li>
