@@ -1,0 +1,8 @@
+body{
+   background: url('https://t4.ftcdn.net/jpg/02/85/58/85/240_F_285588503_osAy57GB2FOqMPr9Xcc8im35KyeHyLfd.jpg') no-repeat center center fixed;
+        -moz-background-size: cover;
+        -webkit-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;  
+  margin: 0;
+}
